@@ -1,0 +1,19 @@
+{
+  "name": "tonboard1",
+  "version": "1.0.0",
+  "description": "A simple backend to serve the ToneBoard React Application",
+  "main": "Y",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t-john93/Tone_Board_Backend.git"
+  },
+  "author": "Trevor Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/t-john93/Tone_Board_Backend/issues"
+  },
+  "homepage": "https://github.com/t-john93/Tone_Board_Backend#readme"
+}
