@@ -4,7 +4,7 @@
   "description": "A simple backend to serve the ToneBoard React Application",
   "main": "Y",
   "scripts": {
-    "test": "start"
+    "run": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/t-john93/Tone_Board_Backend/issues"
   },
-  "homepage": "https://github.com/t-john93/Tone_Board_Backend#readme"
+  "homepage": "https://github.com/t-john93/Tone_Board_Backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
